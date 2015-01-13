@@ -1,0 +1,5 @@
+c:\users\david grölle\documents\visual studio 2013\Projects\ISBN\ISBN\bin\Debug\ISBN.exe.config
+c:\users\david grölle\documents\visual studio 2013\Projects\ISBN\ISBN\bin\Debug\ISBN.exe
+c:\users\david grölle\documents\visual studio 2013\Projects\ISBN\ISBN\bin\Debug\ISBN.pdb
+c:\users\david grölle\documents\visual studio 2013\Projects\ISBN\ISBN\obj\Debug\ISBN.exe
+c:\users\david grölle\documents\visual studio 2013\Projects\ISBN\ISBN\obj\Debug\ISBN.pdb

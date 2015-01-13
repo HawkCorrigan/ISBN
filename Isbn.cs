@@ -60,5 +60,8 @@ namespace ISBN
             builder.Append(sum%11 == 1 ? "X" : (11-(sum%11)).ToString());
             return new Isbn(builder.ToString());
         }
+
+
+        //TODO: LOOKUP http://xisbn.worldcat.org/webservices/xid/isbn/0596002815?method=getMetadata&format=xml&fl=*
     }
 }
